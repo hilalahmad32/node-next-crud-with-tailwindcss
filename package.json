@@ -1,0 +1,25 @@
+{
+  "name": "node-next-crud",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "mongoose": "^6.3.1",
+    "next": "12.1.5",
+    "next-connect": "^0.12.2",
+    "react": "18.0.0",
+    "react-dom": "18.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.5",
+    "eslint": "8.14.0",
+    "eslint-config-next": "12.1.5",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.24"
+  }
+}
